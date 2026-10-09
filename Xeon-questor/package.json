@@ -15,4 +15,3 @@
     "dotenv": "^17.4.0"
     "@sapphire/anc-queue": "^1.5.3"
   }
-}
